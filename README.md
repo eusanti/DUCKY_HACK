@@ -10,11 +10,12 @@ Being a difficult learning path you will not only have to shoot the icons, you w
 As in any learning process there is always a help, in duckyHack is a worm, when you touch it will give you a doble shoot to reach your goal faster. 
 
 ##Technologies
+
 -HTML
 -CSS
 -JAVASCRIPT
 
-##Instructions
+
 
 
  
