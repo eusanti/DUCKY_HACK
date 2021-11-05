@@ -15,7 +15,7 @@ const game = {
     enemie: [],
     mosca: [],
     help: [],
-    logoImages: ['images/JS.png', 'images/css.png', 'images/HTML.png', 'images/HTML.png'],
+    logoImages: ['images/JS.png', 'images/CSS.png', 'images/HTML.png', 'images/HTML.png'],
     intervalId: undefined,
     FPS: 50,
     framesCounter: 0,
