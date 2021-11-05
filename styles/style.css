@@ -1,0 +1,49 @@
+
+*{
+padding: 0;
+margin: 0;
+}
+
+body{
+    display: flex;
+    align-items:center;
+    background-color: rgb(161, 201, 203);
+    margin-top: 40px;
+}
+
+.intro, .results{
+    width: 30%;
+}
+
+button{
+    color: white;
+    background-color:rgb(71, 133, 216);
+    width: 200px;
+    height: 50px;
+    border-radius: 14px;
+    font-size: 17px;
+    font-weight: bold;
+    margin-top: 60px;
+}
+
+.intro{
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.logohack{
+     width: 500px;
+     height: 330px;
+}
+
+.game{
+    width: 50%;
+}
+
+.results img{
+    width: 230px;
+    
+    padding-top: 40px;
+}
