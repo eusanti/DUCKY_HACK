@@ -1,7 +1,7 @@
 # DUCKY_HACK
 It consists of a duck, a student in Duckyhack, that has to shoot towards the programmed icons to learn.
 
-##Try demo
+## Try demo
 Click here! https://besaga.github.io/DUCKY_HACK/
 
 
@@ -15,11 +15,14 @@ As in any learning process there is always a help, in duckyHack is a worm, when 
 
 <img width="400" alt="ducky_huck" src="https://user-images.githubusercontent.com/85948239/140496438-b2fa52d7-e19c-4b59-beff-511a86c2dc0f.png">
 
-##Technologies
+## Technologies
 
--HTML
--CSS
--JAVASCRIPT
+<ul>
+ <li>HTML</li>
+ <li>CSS</li>
+ <li>JAVASCRIPT</li>
+ 
+ </ul>
 
 
 
