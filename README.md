@@ -1,7 +1,9 @@
+
+<img width="500" alt="ducky_huck" src="https://files.slack.com/files-pri/T02G2TV3KRT-F02LYH1EASY/logo.png">
+
 # DUCKYHACK
 It consists of a duck, a student in Duckyhack, that has to shoot towards the programmed icons to learn. 
 
-<img width="500" alt="ducky_huck" src="https://files.slack.com/files-pri/T02G2TV3KRT-F02LYH1EASY/logo.png">
 
 ## Try demo
 Click here! https://eusanti.github.io/DUCKY_HACK/
