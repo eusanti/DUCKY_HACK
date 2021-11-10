@@ -1,6 +1,3 @@
-
-<img width="500" alt="logo_ducky_huck" src="https://webfulltimeoc-gbk3534.slack.com/files/U02G6RB0SM9/F02LYH1EASY/logo.png">
-
 # DUCKYHACK
 It consists of a duck, a student in Duckyhack, that has to shoot towards the programmed icons to learn. 
 
