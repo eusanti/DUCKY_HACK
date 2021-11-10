@@ -1,9 +1,10 @@
-# DUCKY_HACK
-It consists of a duck, a student in Duckyhack, that has to shoot towards the programmed icons to learn.
+# DUCKYHACK
+It consists of a duck, a student in Duckyhack, that has to shoot towards the programmed icons to learn. 
+
+<img width="500" alt="ducky_huck" src="https://files.slack.com/files-pri/T02G2TV3KRT-F02LYH1EASY/logo.png">
 
 ## Try demo
-Click here! https://besaga.github.io/DUCKY_HACK/
-
+Click here! https://eusanti.github.io/DUCKY_HACK/
 
 
 Duckyhack is a game in which the main objective is to shoot all the programming icons before they hit the ground. 
@@ -24,6 +25,7 @@ As in any learning process there is always a help, in duckyHack is a worm, when 
  
  </ul>
 
+@Copyright Bego & Eunice
 
 
 
