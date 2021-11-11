@@ -1,5 +1,5 @@
 
-
+![Texto alternativo](https://files.slack.com/files-pri/T02G2TV3KRT-F02L4106E06/screenshot_2021-11-05_at_10.46.38.png)
 <img width="400" alt="ducky_huck" src="https://files.slack.com/files-pri/T02G2TV3KRT-F02L4106E06/screenshot_2021-11-05_at_10.46.38.png">
 # DUCKYHACK
 It consists of a duck, a student in Duckyhack, that has to shoot towards the programmed icons to learn. 
