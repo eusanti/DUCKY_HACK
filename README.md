@@ -20,11 +20,10 @@ As in any learning process there is always a help, in duckyHack is a worm, when 
  
 ## Technologies
 
-<ul >
- <li style="list-style-type: none"> <img width="30" alt="css-html" src="https://user-images.githubusercontent.com/11834030/141298040-08f14091-64d5-4187-beb1-4fd609bad5fb.png"> HTML</li>
- <li style="list-style-type: none"><img width="30" alt="css-logo" src="https://user-images.githubusercontent.com/11834030/141297959-77f40f1a-b065-47bf-8183-af85d0707c86.png"> CSS</li>
- <li style="list-style-type: none"><img width="30" alt="css-logo" src="https://user-images.githubusercontent.com/11834030/141298061-2dc8df49-46f7-4e4a-979f-98c1abdd5c9b.png"> JAVASCRIPT</li>
- </ul>
+
+ <img width="30" alt="css-html" src="https://user-images.githubusercontent.com/11834030/141298040-08f14091-64d5-4187-beb1-4fd609bad5fb.png"> HTML </br>
+<img width="30" alt="css-logo" src="https://user-images.githubusercontent.com/11834030/141297959-77f40f1a-b065-47bf-8183-af85d0707c86.png"> CSS </br>
+<img width="30" alt="css-logo" src="https://user-images.githubusercontent.com/11834030/141298061-2dc8df49-46f7-4e4a-979f-98c1abdd5c9b.png"> JAVASCRIPT
 
 ## How to play?
 <img width="200" alt="ducky_huck" src="https://user-images.githubusercontent.com/11834030/141272034-ebd0053b-2328-4113-96d4-0dbab677a9e8.png">
