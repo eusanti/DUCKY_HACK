@@ -24,8 +24,11 @@ As in any learning process there is always a help, in duckyHack is a worm, when 
  <li>HTML</li>
  <li>CSS</li>
  <li>JAVASCRIPT</li>
- 
  </ul>
+
+## How to play?
+![teclas](https://user-images.githubusercontent.com/11834030/141272034-ebd0053b-2328-4113-96d4-0dbab677a9e8.png)
+
 
 @Copyright Bego & Eunice
 
